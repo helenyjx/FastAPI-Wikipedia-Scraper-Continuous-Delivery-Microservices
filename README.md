@@ -94,6 +94,6 @@ A makefile is a special file that lists a set of rules for compiling a project. 
 <img width="631" alt="Screen Shot 2022-11-06 at 10 52 44 PM" src="https://user-images.githubusercontent.com/112274822/201289249-2235247d-da27-434c-b888-88863b5f21ca.png">
 <img width="589" alt="Screen Shot 2022-11-11 at 2 32 09 AM" src="https://user-images.githubusercontent.com/112274822/201289371-1b4421f1-3c7b-4bea-912d-a4d906bc0640.png">
 
-* Finally, click "Start build", check the "Buid status", to make sure you pass all tests successfully. Otherwise, please find the erros from "Phase details" to debug.
+* Finally, click "Start build", check the "Buid status", to make sure you pass all tests successfully. Otherwise, please find the errors from "Phase details" to debug.
 <img width="1434" alt="Screen Shot 2022-11-06 at 10 55 32 PM" src="https://user-images.githubusercontent.com/112274822/201290892-6e965b73-40bc-4e68-ae21-512ebdfc5ed8.png">
 <img width="1395" alt="Screen Shot 2022-11-11 at 1 50 18 AM" src="https://user-images.githubusercontent.com/112274822/201286353-aac3fe0b-7a2c-4a2d-986b-16e6a4d02f83.png">
