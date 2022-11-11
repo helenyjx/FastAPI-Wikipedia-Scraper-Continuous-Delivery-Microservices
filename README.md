@@ -1,4 +1,5 @@
 # Project-4-AWS-Jiaxin-Ying
+[![Python application test with Github Actions](https://github.com/nogibjj/Project-4-API-AWS-Jiaxin-Ying/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/Project-4-API-AWS-Jiaxin-Ying/actions/workflows/test.yml)
 This is project 4 from Jiaxin Ying for IDS706 course.
 
 ## Key Objectives of Project
