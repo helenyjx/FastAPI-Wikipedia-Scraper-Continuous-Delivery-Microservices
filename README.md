@@ -81,7 +81,6 @@ A makefile is a special file that lists a set of rules for compiling a project. 
 * Continuous delivery can also be reached through setting up buildspec.yaml, we can copy the code from "Insert build commands" and then build a buildspec.yaml at repo. Once done, click "Use a buildsepc file":
 <img width="786" alt="Screen Shot 2022-11-06 at 10 33 53 PM" src="https://user-images.githubusercontent.com/112274822/201288237-27f8edff-8dcb-45d4-9703-e12c9b89a3b9.png">
 <img width="190" alt="Screen Shot 2022-11-11 at 1 17 46 AM" src="https://user-images.githubusercontent.com/112274822/201286268-8225381d-0e8f-43e0-a94f-d70cb17a6e50.png">
-<img width="478" alt="Screen Shot 2022-11-06 at 10 54 31 PM" src="https://user-images.githubusercontent.com/112274822/201288597-deeac078-2b0c-493c-838b-995e1332e9ba.png">
 
 * When setting up environment image, we need to create ARN Role here, go to AWS, search "Identity and Access Management (IAM)" to manage access to AWS resources. On console, choose "Roles", click "Create role":
 <img width="631" alt="Screen Shot 2022-11-06 at 10 52 44 PM" src="https://user-images.githubusercontent.com/112274822/201288492-9fef29c9-7037-4ceb-bcd1-1554ae5d2440.png">
