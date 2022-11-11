@@ -73,7 +73,7 @@ A makefile is a special file that lists a set of rules for compiling a project. 
 * Continuous delivery can be reached by `make deploy` command:
 <img width="968" alt="Screen Shot 2022-11-11 at 1 27 23 AM" src="https://user-images.githubusercontent.com/112274822/201286839-ecc4a7ef-4785-471f-a0aa-1e9bc8d85f0b.png">
 
-### 4. Use AWS CodeBuild to AWS App Runner Continuous Delivery
+### 4. Use AWS CodeBuild to Check Continuous Delivery
 * At AWS, got to CodeBuild, then click "Create build project":
 <img width="1406" alt="Screen Shot 2022-11-11 at 1 33 20 AM" src="https://user-images.githubusercontent.com/112274822/201286912-1a4a524e-7303-47ee-8cc8-807b29ea371a.png">
 <img width="813" alt="Screen Shot 2022-11-06 at 10 30 05 PM" src="https://user-images.githubusercontent.com/112274822/201288041-83a937ad-327e-4bc0-a134-5d5df4e5029f.png">
