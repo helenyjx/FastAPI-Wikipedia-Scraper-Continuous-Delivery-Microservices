@@ -5,10 +5,10 @@ This is project 4 from Jiaxin Ying for IDS706 course.
 In project 4, the purpose is to build continuous delivery of FastAPI Data Engineering on AWS. I scaffold a simple Wikipedia searcher project via Python. Users only need to use "search" to enter the topic they are interested in at the webpage port, they can see the keywords related to that topic, so that to select the subject they want to know. Secondly, users can use "phrase" to enter that subject, then they can get the entry related to that subject, and then select the entry they are intrested in. Finally, they use the "wiki" to search for such entry, after that, they can see the basic introduction or definition of this entry.  This API acts as a simple Wikipedia fetcher that allows us to learn basic information, concepts and definitions of something we are interested in.
 
 ## Structure Diagram
-
+<img width="1025" alt="Screen Shot 2022-11-11 at 3 54 32 AM" src="https://user-images.githubusercontent.com/112274822/201303469-c12f14a2-f644-4e71-9796-07de12a93b7a.png">
 
 ## Demo Video Link
-
+https://teams.microsoft.com/l/message/19:acc4415fc1474fc9975253c1caa8e192@thread.tacv2/1667871811154?tenantId=cb72c54e-4a31-4d9e-b14a-1ea36dfac94c&groupId=428262e3-7a97-45de-8ed6-eb751b9cb87c&parentMessageId=1667871811154&teamName=IDS.706.01.F22&channelName=Week%2011%20Demo&createdTime=1667871811154&allowXTenantAccess=false
 
 ## Advance Preparation
 ### 1. Setup virtual environment
@@ -97,4 +97,3 @@ A makefile is a special file that lists a set of rules for compiling a project. 
 * Finally, click "Start build", check the "Buid status", to make sure you pass all tests successfully. Otherwise, please find the erros from "Phase details" to debug.
 <img width="1434" alt="Screen Shot 2022-11-06 at 10 55 32 PM" src="https://user-images.githubusercontent.com/112274822/201290892-6e965b73-40bc-4e68-ae21-512ebdfc5ed8.png">
 <img width="1395" alt="Screen Shot 2022-11-11 at 1 50 18 AM" src="https://user-images.githubusercontent.com/112274822/201286353-aac3fe0b-7a2c-4a2d-986b-16e6a4d02f83.png">
-
