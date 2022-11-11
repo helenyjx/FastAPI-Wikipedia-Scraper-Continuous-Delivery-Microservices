@@ -27,6 +27,7 @@ A workflow is a configurable automated process that will run one or more jobs. W
 
 ### 3. Add requirements.txt
 Requirement. txt file is a type of file that usually stores information about all the libraries, modules, and packages in itself that are used while developing a particular project. It also stores all files and packages on which that project is dependent or requires to run. Here are the packages I will use for this project:
+
 <img width="179" alt="Screen Shot 2022-11-11 at 12 06 21 AM" src="https://user-images.githubusercontent.com/112274822/201286426-f855ec7b-dfa3-4d15-a138-c7f7f697ca21.png">
 
 ### 4. Create a Makefile
@@ -66,6 +67,7 @@ A makefile is a special file that lists a set of rules for compiling a project. 
 
 ### 3. Push the repo to ECR (Elastic Container Registry) at AWS
 * Login to AWS, go to ECR and create a new repository at first, the go to repo image page, click "View push commands", copy all of the token at Makefile.
+<img width="1459" alt="Screen Shot 2022-11-11 at 1 21 54 AM" src="https://user-images.githubusercontent.com/112274822/201290150-46b3e5cf-f920-421d-9fdc-c72e9f8d2983.png">
 <img width="803" alt="Screen Shot 2022-11-11 at 1 24 33 AM" src="https://user-images.githubusercontent.com/112274822/201286501-2c3b1b18-19c3-4e9d-a2f2-be002bf401b7.png">
 
 * Continuous delivery can be reached by `make deploy` command:
