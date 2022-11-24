@@ -1,5 +1,6 @@
 # Project-4-AWS-Jiaxin-Ying
 [![Python application test with Github Actions](https://github.com/nogibjj/Project-4-API-AWS-Jiaxin-Ying/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/Project-4-API-AWS-Jiaxin-Ying/actions/workflows/test.yml)
+[![CodeBuild test with AWS](https://codebuild.us-east-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiam82ZXEyYzJETGVKM1lkWjMyd2pqV2tsUDlDKzBmclpxcE9KYnlBZThKMGY5Wk5FQjJ4WC9rTW5hb0szcVVsSG4xUCtFYmpwRVQ1MGw4czZKOFFLREV3PSIsIml2UGFyYW1ldGVyU3BlYyI6ImpUV3JTa0FDR2d2QjY3ZGQiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
 
 This is project 4 from Jiaxin Ying for IDS706 course.
 
